@@ -1,0 +1,45 @@
+.home-div{
+    background-color: cyan;
+    height: 90vh;
+    background: linear-gradient(45deg, rgba(
+        145, 146, 122, 0.62), rgba(
+          217, 91, 132, 0.58)), url("./images/home-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-content{
+    padding-top: 15%;
+    
+}
+.column-one{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+}
+
+.column-two{
+    text-align: center;
+    color: white;
+}
+
+
+/* .column-one{
+    background-color: rgb(134, 233, 233);
+    height: 90vh;
+    text-align: end;
+}
+
+.column-two{
+    background-color: rgb(226, 160, 112);
+    height: 90vh;
+    text-align: start;
+} */
+
+/* .text{
+    font-size: 26px;
+    margin-top: 40% !important;
+    text-transform: uppercase;
+    font-weight: 700;
+} */
